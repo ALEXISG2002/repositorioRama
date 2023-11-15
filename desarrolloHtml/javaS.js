@@ -23,7 +23,4 @@ function generarNumeroAleatorio() {
     }
   }
   dibujarDados();
-
-  document.querySelector('#lanzar').addEventListener('click', ()=>
-  {dibujarDados
-});
+  document.querySelector('#lanzar').addEventListener('click', () =>{dibujarDados()});
