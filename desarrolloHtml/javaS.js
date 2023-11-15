@@ -1,4 +1,4 @@
-import './styles.css';
+import './rama.css';
 
 function generarNumeroAleatorio(){
     return Math.floor(Math.random() * 6) + 1;
